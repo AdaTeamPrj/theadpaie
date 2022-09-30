@@ -1,0 +1,25 @@
+{
+  "theadpaieApp": {
+    "mention": {
+      "home": {
+        "title": "Mentions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Mention",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Mention",
+        "notFound": "No Mentions found"
+      },
+      "created": "Ένα νέο Mention έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Mention έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Mention έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Mention {{ id }};"
+      },
+      "detail": {
+        "title": "Mention"
+      },
+      "id": "ID",
+      "mention": "Mention",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

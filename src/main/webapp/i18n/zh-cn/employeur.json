@@ -1,0 +1,29 @@
+{
+  "theadpaieApp": {
+    "employeur": {
+      "home": {
+        "title": "Employeurs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Employeur",
+        "createOrEditLabel": "创建或编辑 Employeur",
+        "notFound": "No Employeurs found"
+      },
+      "created": "Employeur {{ param }} 创建成功",
+      "updated": "Employeur {{ param }} 更新成功",
+      "deleted": "Employeur {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Employeur {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Employeur"
+      },
+      "id": "ID",
+      "name": "Name",
+      "numeroSiret": "Numero Siret",
+      "numApe": "Num Ape",
+      "numUrssaf": "Num Urssaf",
+      "conventionCollective": "Convention Collective",
+      "location": "Location"
+    }
+  }
+}

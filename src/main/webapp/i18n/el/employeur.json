@@ -1,0 +1,29 @@
+{
+  "theadpaieApp": {
+    "employeur": {
+      "home": {
+        "title": "Employeurs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Employeur",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Employeur",
+        "notFound": "No Employeurs found"
+      },
+      "created": "Ένα νέο Employeur έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Employeur έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Employeur έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Employeur {{ id }};"
+      },
+      "detail": {
+        "title": "Employeur"
+      },
+      "id": "ID",
+      "name": "Name",
+      "numeroSiret": "Numero Siret",
+      "numApe": "Num Ape",
+      "numUrssaf": "Num Urssaf",
+      "conventionCollective": "Convention Collective",
+      "location": "Location"
+    }
+  }
+}

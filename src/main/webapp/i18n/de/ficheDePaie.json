@@ -1,0 +1,36 @@
+{
+  "theadpaieApp": {
+    "ficheDePaie": {
+      "home": {
+        "title": "Fiche De Paies",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Fiche De Paie erstellen",
+        "createOrEditLabel": "Fiche De Paie erstellen oder bearbeiten",
+        "notFound": "Keine Fiche De Paies gefunden"
+      },
+      "created": "Fiche De Paie erstellt mit ID {{ param }}",
+      "updated": "Fiche De Paie aktualisiert mit ID {{ param }}",
+      "deleted": "Fiche De Paie gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Fiche De Paie {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Fiche De Paie"
+      },
+      "id": "ID",
+      "salaireBrut": "Salaire Brut",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "datepaiement": "Datepaiement",
+      "salaireNet": "Salaire Net",
+      "montantNetAvantImpots": "Montant Net Avant Impots",
+      "proFees": "Pro Fees",
+      "deductions": "Deductions",
+      "contrat": "Contrat",
+      "employeur": "Employeur",
+      "imposition": "Imposition",
+      "cotisation": "Cotisation",
+      "mention": "Mention"
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "theadpaieApp": {
+    "conventionCollective": {
+      "home": {
+        "title": "Convention Collectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Convention Collective",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Convention Collective",
+        "notFound": "No Convention Collectives found"
+      },
+      "created": "Ένα νέο Convention Collective έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Convention Collective έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Convention Collective έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Convention Collective {{ id }};"
+      },
+      "detail": {
+        "title": "Convention Collective"
+      },
+      "id": "ID",
+      "idcc": "Idcc",
+      "nom": "Nom",
+      "position": "Position",
+      "coefficient": "Coefficient",
+      "valeurPoint": "Valeur Point",
+      "baseFixe": "Base Fixe",
+      "salaireMinimaux": "Salaire Minimaux",
+      "employeur": "Employeur"
+    }
+  }
+}

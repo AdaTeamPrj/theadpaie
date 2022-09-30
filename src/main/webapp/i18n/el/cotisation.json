@@ -1,0 +1,30 @@
+{
+  "theadpaieApp": {
+    "cotisation": {
+      "home": {
+        "title": "Cotisations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Cotisation",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Cotisation",
+        "notFound": "No Cotisations found"
+      },
+      "created": "Ένα νέο Cotisation έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Cotisation έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Cotisation έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Cotisation {{ id }};"
+      },
+      "detail": {
+        "title": "Cotisation"
+      },
+      "id": "ID",
+      "name": "Name",
+      "famille": "Famille",
+      "taux": "Taux",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "actuel": "Actuel",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

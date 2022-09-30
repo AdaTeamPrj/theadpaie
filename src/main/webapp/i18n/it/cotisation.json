@@ -1,0 +1,30 @@
+{
+  "theadpaieApp": {
+    "cotisation": {
+      "home": {
+        "title": "Cotisations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Cotisation",
+        "createOrEditLabel": "Genera o modifica un Cotisation",
+        "notFound": "No Cotisations found"
+      },
+      "created": "&Egrave; stato generato un nuovo Cotisation con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Cotisation identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Cotisation con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Cotisation {{ id }}?"
+      },
+      "detail": {
+        "title": "Cotisation"
+      },
+      "id": "ID",
+      "name": "Name",
+      "famille": "Famille",
+      "taux": "Taux",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "actuel": "Actuel",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

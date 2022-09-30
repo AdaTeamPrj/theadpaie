@@ -1,0 +1,25 @@
+{
+  "theadpaieApp": {
+    "mention": {
+      "home": {
+        "title": "Mentions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Mention",
+        "createOrEditLabel": "Genera o modifica un Mention",
+        "notFound": "No Mentions found"
+      },
+      "created": "&Egrave; stato generato un nuovo Mention con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Mention identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Mention con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Mention {{ id }}?"
+      },
+      "detail": {
+        "title": "Mention"
+      },
+      "id": "ID",
+      "mention": "Mention",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

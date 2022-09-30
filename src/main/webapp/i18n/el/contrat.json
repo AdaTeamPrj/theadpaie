@@ -1,0 +1,32 @@
+{
+  "theadpaieApp": {
+    "contrat": {
+      "home": {
+        "title": "Contrats",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Contrat",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Contrat",
+        "notFound": "No Contrats found"
+      },
+      "created": "Ένα νέο Contrat έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Contrat έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Contrat έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Contrat {{ id }};"
+      },
+      "detail": {
+        "title": "Contrat"
+      },
+      "id": "ID",
+      "salaireBase": "Salaire Base",
+      "emploi": "Emploi",
+      "dateArrive": "Date Arrive",
+      "classification": "Classification",
+      "typeForfait": "Type Forfait",
+      "nbHeure": "Nb Heure",
+      "conventionCollective": "Convention Collective",
+      "employeur": "Employeur",
+      "employee": "Employee"
+    }
+  }
+}

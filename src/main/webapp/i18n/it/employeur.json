@@ -1,0 +1,29 @@
+{
+  "theadpaieApp": {
+    "employeur": {
+      "home": {
+        "title": "Employeurs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Employeur",
+        "createOrEditLabel": "Genera o modifica un Employeur",
+        "notFound": "No Employeurs found"
+      },
+      "created": "&Egrave; stato generato un nuovo Employeur con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Employeur identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Employeur con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Employeur {{ id }}?"
+      },
+      "detail": {
+        "title": "Employeur"
+      },
+      "id": "ID",
+      "name": "Name",
+      "numeroSiret": "Numero Siret",
+      "numApe": "Num Ape",
+      "numUrssaf": "Num Urssaf",
+      "conventionCollective": "Convention Collective",
+      "location": "Location"
+    }
+  }
+}

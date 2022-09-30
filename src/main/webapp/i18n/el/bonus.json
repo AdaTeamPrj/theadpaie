@@ -1,0 +1,26 @@
+{
+  "theadpaieApp": {
+    "bonus": {
+      "home": {
+        "title": "Bonuses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Bonus",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Bonus",
+        "notFound": "No Bonuses found"
+      },
+      "created": "Ένα νέο Bonus έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Bonus έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Bonus έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Bonus {{ id }};"
+      },
+      "detail": {
+        "title": "Bonus"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "montant": "Montant",
+      "contrat": "Contrat"
+    }
+  }
+}

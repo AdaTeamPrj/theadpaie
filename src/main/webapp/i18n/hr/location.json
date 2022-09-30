@@ -1,0 +1,30 @@
+{
+  "theadpaieApp": {
+    "location": {
+      "home": {
+        "title": "Locations",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Location",
+        "createOrEditLabel": "Kreirati ili urediti Location",
+        "notFound": "Nije nađeno Locations"
+      },
+      "created": "Kreiran je Location sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Location sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Location sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Location {{ id }}?"
+      },
+      "detail": {
+        "title": "Location"
+      },
+      "id": "ID",
+      "streetName": "Street Name",
+      "numeroRue": "Numero Rue",
+      "postalCode": "Postal Code",
+      "city": "City",
+      "stateProvince": "State Province",
+      "employee": "Employee",
+      "employeur": "Employeur"
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "theadpaieApp": {
+    "tauxDImposition": {
+      "home": {
+        "title": "Taux D Impositions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Taux D Imposition",
+        "createOrEditLabel": "Kreirati ili urediti Taux D Imposition",
+        "notFound": "Nije nađeno Taux D Impositions"
+      },
+      "created": "Kreiran je Taux D Imposition sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Taux D Imposition sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Taux D Imposition sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Taux D Imposition {{ id }}?"
+      },
+      "detail": {
+        "title": "Taux D Imposition"
+      },
+      "id": "ID",
+      "taux": "Taux",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "startDate": "Start Date",
+      "endDate": "End Date"
+    }
+  }
+}

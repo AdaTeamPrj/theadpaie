@@ -1,0 +1,32 @@
+{
+  "theadpaieApp": {
+    "contrat": {
+      "home": {
+        "title": "Contrats",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Contrat",
+        "createOrEditLabel": "Kreirati ili urediti Contrat",
+        "notFound": "Nije nađeno Contrats"
+      },
+      "created": "Kreiran je Contrat sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Contrat sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Contrat sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Contrat {{ id }}?"
+      },
+      "detail": {
+        "title": "Contrat"
+      },
+      "id": "ID",
+      "salaireBase": "Salaire Base",
+      "emploi": "Emploi",
+      "dateArrive": "Date Arrive",
+      "classification": "Classification",
+      "typeForfait": "Type Forfait",
+      "nbHeure": "Nb Heure",
+      "conventionCollective": "Convention Collective",
+      "employeur": "Employeur",
+      "employee": "Employee"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "theadpaieApp": {
+    "employeur": {
+      "home": {
+        "title": "Employeurs",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Employeur erstellen",
+        "createOrEditLabel": "Employeur erstellen oder bearbeiten",
+        "notFound": "Keine Employeurs gefunden"
+      },
+      "created": "Employeur erstellt mit ID {{ param }}",
+      "updated": "Employeur aktualisiert mit ID {{ param }}",
+      "deleted": "Employeur gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Employeur {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Employeur"
+      },
+      "id": "ID",
+      "name": "Name",
+      "numeroSiret": "Numero Siret",
+      "numApe": "Num Ape",
+      "numUrssaf": "Num Urssaf",
+      "conventionCollective": "Convention Collective",
+      "location": "Location"
+    }
+  }
+}

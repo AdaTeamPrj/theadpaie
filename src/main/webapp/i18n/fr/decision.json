@@ -1,0 +1,10 @@
+{
+  "theadpaieApp": {
+    "Decision": {
+      "null": "",
+      "Accepte": "Accepte",
+      "Refuse": "Refuse",
+      "Enattente": "Enattente"
+    }
+  }
+}

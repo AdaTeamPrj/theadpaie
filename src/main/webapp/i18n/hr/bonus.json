@@ -1,0 +1,26 @@
+{
+  "theadpaieApp": {
+    "bonus": {
+      "home": {
+        "title": "Bonuses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Bonus",
+        "createOrEditLabel": "Kreirati ili urediti Bonus",
+        "notFound": "Nije nađeno Bonuses"
+      },
+      "created": "Kreiran je Bonus sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Bonus sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Bonus sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Bonus {{ id }}?"
+      },
+      "detail": {
+        "title": "Bonus"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "montant": "Montant",
+      "contrat": "Contrat"
+    }
+  }
+}

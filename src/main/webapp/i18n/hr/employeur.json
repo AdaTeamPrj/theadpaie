@@ -1,0 +1,29 @@
+{
+  "theadpaieApp": {
+    "employeur": {
+      "home": {
+        "title": "Employeurs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Employeur",
+        "createOrEditLabel": "Kreirati ili urediti Employeur",
+        "notFound": "Nije nađeno Employeurs"
+      },
+      "created": "Kreiran je Employeur sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Employeur sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Employeur sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Employeur {{ id }}?"
+      },
+      "detail": {
+        "title": "Employeur"
+      },
+      "id": "ID",
+      "name": "Name",
+      "numeroSiret": "Numero Siret",
+      "numApe": "Num Ape",
+      "numUrssaf": "Num Urssaf",
+      "conventionCollective": "Convention Collective",
+      "location": "Location"
+    }
+  }
+}

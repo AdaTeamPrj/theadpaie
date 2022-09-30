@@ -1,0 +1,31 @@
+{
+  "theadpaieApp": {
+    "conventionCollective": {
+      "home": {
+        "title": "Convention Collectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Convention Collective",
+        "createOrEditLabel": "创建或编辑 Convention Collective",
+        "notFound": "No Convention Collectives found"
+      },
+      "created": "Convention Collective {{ param }} 创建成功",
+      "updated": "Convention Collective {{ param }} 更新成功",
+      "deleted": "Convention Collective {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Convention Collective {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Convention Collective"
+      },
+      "id": "ID",
+      "idcc": "Idcc",
+      "nom": "Nom",
+      "position": "Position",
+      "coefficient": "Coefficient",
+      "valeurPoint": "Valeur Point",
+      "baseFixe": "Base Fixe",
+      "salaireMinimaux": "Salaire Minimaux",
+      "employeur": "Employeur"
+    }
+  }
+}

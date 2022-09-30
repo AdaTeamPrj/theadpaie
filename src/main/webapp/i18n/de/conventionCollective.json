@@ -1,0 +1,31 @@
+{
+  "theadpaieApp": {
+    "conventionCollective": {
+      "home": {
+        "title": "Convention Collectives",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Convention Collective erstellen",
+        "createOrEditLabel": "Convention Collective erstellen oder bearbeiten",
+        "notFound": "Keine Convention Collectives gefunden"
+      },
+      "created": "Convention Collective erstellt mit ID {{ param }}",
+      "updated": "Convention Collective aktualisiert mit ID {{ param }}",
+      "deleted": "Convention Collective gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Convention Collective {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Convention Collective"
+      },
+      "id": "ID",
+      "idcc": "Idcc",
+      "nom": "Nom",
+      "position": "Position",
+      "coefficient": "Coefficient",
+      "valeurPoint": "Valeur Point",
+      "baseFixe": "Base Fixe",
+      "salaireMinimaux": "Salaire Minimaux",
+      "employeur": "Employeur"
+    }
+  }
+}

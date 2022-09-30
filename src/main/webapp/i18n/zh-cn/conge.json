@@ -1,0 +1,32 @@
+{
+  "theadpaieApp": {
+    "conge": {
+      "home": {
+        "title": "Conges",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Conge",
+        "createOrEditLabel": "创建或编辑 Conge",
+        "notFound": "No Conges found"
+      },
+      "created": "Conge {{ param }} 创建成功",
+      "updated": "Conge {{ param }} 更新成功",
+      "deleted": "Conge {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Conge {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Conge"
+      },
+      "id": "ID",
+      "holdateStart": "Holdate Start",
+      "holdateEnd": "Holdate End",
+      "holdatePay": "Holdate Pay",
+      "nbCongeAcquis": "Nb Conge Acquis",
+      "nbCongePris": "Nb Conge Pris",
+      "dateDemande": "Date Demande",
+      "decision": "Decision",
+      "dateReponse": "Date Reponse",
+      "contrat": "Contrat"
+    }
+  }
+}

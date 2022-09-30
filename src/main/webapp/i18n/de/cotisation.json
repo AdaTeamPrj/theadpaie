@@ -1,0 +1,30 @@
+{
+  "theadpaieApp": {
+    "cotisation": {
+      "home": {
+        "title": "Cotisations",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Cotisation erstellen",
+        "createOrEditLabel": "Cotisation erstellen oder bearbeiten",
+        "notFound": "Keine Cotisations gefunden"
+      },
+      "created": "Cotisation erstellt mit ID {{ param }}",
+      "updated": "Cotisation aktualisiert mit ID {{ param }}",
+      "deleted": "Cotisation gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Cotisation {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Cotisation"
+      },
+      "id": "ID",
+      "name": "Name",
+      "famille": "Famille",
+      "taux": "Taux",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "actuel": "Actuel",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

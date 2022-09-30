@@ -48,6 +48,30 @@ public class CacheConfiguration {
             createCache(cm, com.adateam.theadpaie.domain.User.class.getName());
             createCache(cm, com.adateam.theadpaie.domain.Authority.class.getName());
             createCache(cm, com.adateam.theadpaie.domain.User.class.getName() + ".authorities");
+            createCache(cm, com.adateam.theadpaie.domain.Location.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Location.class.getName() + ".employees");
+            createCache(cm, com.adateam.theadpaie.domain.Location.class.getName() + ".employeurs");
+            createCache(cm, com.adateam.theadpaie.domain.Employee.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Employee.class.getName() + ".jobs");
+            createCache(cm, com.adateam.theadpaie.domain.Employee.class.getName() + ".locations");
+            createCache(cm, com.adateam.theadpaie.domain.Employeur.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Employeur.class.getName() + ".conventionCollectives");
+            createCache(cm, com.adateam.theadpaie.domain.Employeur.class.getName() + ".locations");
+            createCache(cm, com.adateam.theadpaie.domain.Job.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Job.class.getName() + ".employees");
+            createCache(cm, com.adateam.theadpaie.domain.TauxDImposition.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Mention.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Mention.class.getName() + ".ficheDePaies");
+            createCache(cm, com.adateam.theadpaie.domain.Conge.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Bonus.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Contrat.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.FicheDePaie.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.FicheDePaie.class.getName() + ".cotisations");
+            createCache(cm, com.adateam.theadpaie.domain.FicheDePaie.class.getName() + ".mentions");
+            createCache(cm, com.adateam.theadpaie.domain.ConventionCollective.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.ConventionCollective.class.getName() + ".employeurs");
+            createCache(cm, com.adateam.theadpaie.domain.Cotisation.class.getName());
+            createCache(cm, com.adateam.theadpaie.domain.Cotisation.class.getName() + ".ficheDePaies");
             // jhipster-needle-ehcache-add-entry
         };
     }

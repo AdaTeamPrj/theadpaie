@@ -1,0 +1,32 @@
+{
+  "theadpaieApp": {
+    "conge": {
+      "home": {
+        "title": "Conges",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Conge",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Conge",
+        "notFound": "No Conges found"
+      },
+      "created": "Ένα νέο Conge έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Conge έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Conge έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Conge {{ id }};"
+      },
+      "detail": {
+        "title": "Conge"
+      },
+      "id": "ID",
+      "holdateStart": "Holdate Start",
+      "holdateEnd": "Holdate End",
+      "holdatePay": "Holdate Pay",
+      "nbCongeAcquis": "Nb Conge Acquis",
+      "nbCongePris": "Nb Conge Pris",
+      "dateDemande": "Date Demande",
+      "decision": "Decision",
+      "dateReponse": "Date Reponse",
+      "contrat": "Contrat"
+    }
+  }
+}

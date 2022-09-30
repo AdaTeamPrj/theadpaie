@@ -1,0 +1,31 @@
+{
+  "theadpaieApp": {
+    "conventionCollective": {
+      "home": {
+        "title": "Convention Collectives",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Convention Collective",
+        "createOrEditLabel": "Kreirati ili urediti Convention Collective",
+        "notFound": "Nije nađeno Convention Collectives"
+      },
+      "created": "Kreiran je Convention Collective sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Convention Collective sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Convention Collective sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Convention Collective {{ id }}?"
+      },
+      "detail": {
+        "title": "Convention Collective"
+      },
+      "id": "ID",
+      "idcc": "Idcc",
+      "nom": "Nom",
+      "position": "Position",
+      "coefficient": "Coefficient",
+      "valeurPoint": "Valeur Point",
+      "baseFixe": "Base Fixe",
+      "salaireMinimaux": "Salaire Minimaux",
+      "employeur": "Employeur"
+    }
+  }
+}

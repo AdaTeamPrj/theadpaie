@@ -1,0 +1,26 @@
+{
+  "theadpaieApp": {
+    "bonus": {
+      "home": {
+        "title": "Bonuses",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Bonus",
+        "createOrEditLabel": "Genera o modifica un Bonus",
+        "notFound": "No Bonuses found"
+      },
+      "created": "&Egrave; stato generato un nuovo Bonus con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Bonus identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Bonus con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Bonus {{ id }}?"
+      },
+      "detail": {
+        "title": "Bonus"
+      },
+      "id": "ID",
+      "nom": "Nom",
+      "montant": "Montant",
+      "contrat": "Contrat"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "theadpaieApp": {
+    "conge": {
+      "home": {
+        "title": "Conges",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Genera un nuovo Conge",
+        "createOrEditLabel": "Genera o modifica un Conge",
+        "notFound": "No Conges found"
+      },
+      "created": "&Egrave; stato generato un nuovo Conge con identificatore {{ param }}",
+      "updated": "&Egrave; stato aggiornato Conge identificato da {{ param }}",
+      "deleted": "&Egrave; stato eliminato Conge con identificatore {{ param }}",
+      "delete": {
+        "question": "Sei sicuro di volere eliminare Conge {{ id }}?"
+      },
+      "detail": {
+        "title": "Conge"
+      },
+      "id": "ID",
+      "holdateStart": "Holdate Start",
+      "holdateEnd": "Holdate End",
+      "holdatePay": "Holdate Pay",
+      "nbCongeAcquis": "Nb Conge Acquis",
+      "nbCongePris": "Nb Conge Pris",
+      "dateDemande": "Date Demande",
+      "decision": "Decision",
+      "dateReponse": "Date Reponse",
+      "contrat": "Contrat"
+    }
+  }
+}

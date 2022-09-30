@@ -1,0 +1,34 @@
+{
+  "theadpaieApp": {
+    "employee": {
+      "home": {
+        "title": "Employees",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Employee",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Employee",
+        "notFound": "No Employees found"
+      },
+      "created": "Ένα νέο Employee έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Employee έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Employee έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Employee {{ id }};"
+      },
+      "detail": {
+        "title": "Employee"
+      },
+      "id": "ID",
+      "firstName": "First Name",
+      "lastName": "Last Name",
+      "numeroSecuriteSociale": "Numero Securite Sociale",
+      "qualification": "Qualification",
+      "tauxImposition": "Taux Imposition",
+      "employee": "Employee",
+      "job": "Job",
+      "location": "Location",
+      "help": {
+        "firstName": "The firstname attribute."
+      }
+    }
+  }
+}

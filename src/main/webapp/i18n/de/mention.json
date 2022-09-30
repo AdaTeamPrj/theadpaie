@@ -1,0 +1,25 @@
+{
+  "theadpaieApp": {
+    "mention": {
+      "home": {
+        "title": "Mentions",
+        "refreshListLabel": "Liste aktualisieren",
+        "createLabel": "Mention erstellen",
+        "createOrEditLabel": "Mention erstellen oder bearbeiten",
+        "notFound": "Keine Mentions gefunden"
+      },
+      "created": "Mention erstellt mit ID {{ param }}",
+      "updated": "Mention aktualisiert mit ID {{ param }}",
+      "deleted": "Mention gelöscht mit ID {{ param }}",
+      "delete": {
+        "question": "Soll Mention {{ id }} wirklich dauerhaft gelöscht werden?"
+      },
+      "detail": {
+        "title": "Mention"
+      },
+      "id": "ID",
+      "mention": "Mention",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

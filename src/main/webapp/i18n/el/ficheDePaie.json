@@ -1,0 +1,36 @@
+{
+  "theadpaieApp": {
+    "ficheDePaie": {
+      "home": {
+        "title": "Fiche De Paies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Δημιουργήστε ένα νέο Fiche De Paie",
+        "createOrEditLabel": "Δημιουργήστε η επεξεργαστείτε ένα Fiche De Paie",
+        "notFound": "No Fiche De Paies found"
+      },
+      "created": "Ένα νέο Fiche De Paie έχει δημιουργηθεί με αναγνωριστικό {{ param }}",
+      "updated": "Ένα Fiche De Paie έχει ενημερωθεί με αναγνωριστικό {{ param }}",
+      "deleted": "Ένα Fiche De Paie έχει διαγραφτεί με αναγνωριστικό {{ param }}",
+      "delete": {
+        "question": "Είστε βέβαιοι όταν θέλετε να διαγράψετε το ακόλουθο Fiche De Paie {{ id }};"
+      },
+      "detail": {
+        "title": "Fiche De Paie"
+      },
+      "id": "ID",
+      "salaireBrut": "Salaire Brut",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "datepaiement": "Datepaiement",
+      "salaireNet": "Salaire Net",
+      "montantNetAvantImpots": "Montant Net Avant Impots",
+      "proFees": "Pro Fees",
+      "deductions": "Deductions",
+      "contrat": "Contrat",
+      "employeur": "Employeur",
+      "imposition": "Imposition",
+      "cotisation": "Cotisation",
+      "mention": "Mention"
+    }
+  }
+}

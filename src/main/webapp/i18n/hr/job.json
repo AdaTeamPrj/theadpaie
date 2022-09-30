@@ -1,0 +1,27 @@
+{
+  "theadpaieApp": {
+    "job": {
+      "home": {
+        "title": "Jobs",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Job",
+        "createOrEditLabel": "Kreirati ili urediti Job",
+        "notFound": "Nije nađeno Jobs"
+      },
+      "created": "Kreiran je Job sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Job sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Job sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Job {{ id }}?"
+      },
+      "detail": {
+        "title": "Job"
+      },
+      "id": "ID",
+      "jobTitle": "Job Title",
+      "minSalary": "Min Salary",
+      "maxSalary": "Max Salary",
+      "employee": "Employee"
+    }
+  }
+}

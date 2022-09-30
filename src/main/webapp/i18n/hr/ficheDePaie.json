@@ -1,0 +1,36 @@
+{
+  "theadpaieApp": {
+    "ficheDePaie": {
+      "home": {
+        "title": "Fiche De Paies",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Fiche De Paie",
+        "createOrEditLabel": "Kreirati ili urediti Fiche De Paie",
+        "notFound": "Nije nađeno Fiche De Paies"
+      },
+      "created": "Kreiran je Fiche De Paie sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Fiche De Paie sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Fiche De Paie sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Fiche De Paie {{ id }}?"
+      },
+      "detail": {
+        "title": "Fiche De Paie"
+      },
+      "id": "ID",
+      "salaireBrut": "Salaire Brut",
+      "startDate": "Start Date",
+      "endDate": "End Date",
+      "datepaiement": "Datepaiement",
+      "salaireNet": "Salaire Net",
+      "montantNetAvantImpots": "Montant Net Avant Impots",
+      "proFees": "Pro Fees",
+      "deductions": "Deductions",
+      "contrat": "Contrat",
+      "employeur": "Employeur",
+      "imposition": "Imposition",
+      "cotisation": "Cotisation",
+      "mention": "Mention"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "theadpaieApp": {
+    "mention": {
+      "home": {
+        "title": "Mentions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "创建新 Mention",
+        "createOrEditLabel": "创建或编辑 Mention",
+        "notFound": "No Mentions found"
+      },
+      "created": "Mention {{ param }} 创建成功",
+      "updated": "Mention {{ param }} 更新成功",
+      "deleted": "Mention {{ param }} 删除成功",
+      "delete": {
+        "question": "你确定要删除 Mention {{ id }} 吗？"
+      },
+      "detail": {
+        "title": "Mention"
+      },
+      "id": "ID",
+      "mention": "Mention",
+      "ficheDePaie": "Fiche De Paie"
+    }
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "theadpaieApp": {
+    "conge": {
+      "home": {
+        "title": "Conges",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Kreirati Conge",
+        "createOrEditLabel": "Kreirati ili urediti Conge",
+        "notFound": "Nije nađeno Conges"
+      },
+      "created": "Kreiran je Conge sa identifikatorom {{ param }}",
+      "updated": "Ažuriran je Conge sa identifikatorom {{ param }}",
+      "deleted": "Obrisan je Conge sa identifikatorom {{ param }}",
+      "delete": {
+        "question": "Da li ste sigurni da želite obrisati Conge {{ id }}?"
+      },
+      "detail": {
+        "title": "Conge"
+      },
+      "id": "ID",
+      "holdateStart": "Holdate Start",
+      "holdateEnd": "Holdate End",
+      "holdatePay": "Holdate Pay",
+      "nbCongeAcquis": "Nb Conge Acquis",
+      "nbCongePris": "Nb Conge Pris",
+      "dateDemande": "Date Demande",
+      "decision": "Decision",
+      "dateReponse": "Date Reponse",
+      "contrat": "Contrat"
+    }
+  }
+}
