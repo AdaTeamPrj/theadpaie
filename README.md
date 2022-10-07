@@ -1,7 +1,7 @@
 # Application Adpaie by Adateam
 ## Adpaie est un logiciel de gestion de paie
 
-[![N|Solid](https://github.com/AdaTeamPrj/scripts-formation/blob/main/image_readme/AdaTeam_Logo.png?raw=true)](https://sites.google.com/view/adp-class/accueil)
+[![N|Solid](https://github.com/AdaTeamPrj/scripts-formation/blob/main/image_readme/AdaTeam_Logo.png?raw=true)](https://theadpaie.herokuapp.com/)
 
 This application was generated using JHipster 7.9.3, you can find documentation and help at [https://www.jhipster.tech/documentation-archive/v7.9.3](https://www.jhipster.tech/documentation-archive/v7.9.3).
 
